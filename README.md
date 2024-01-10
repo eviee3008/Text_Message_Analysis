@@ -9,7 +9,7 @@ Future plans:
 
 ## Files
 
-- **`text_message_analysis`** - A notebook documenting the code used for the toolkit, along with demonstrations of visualisations
-- **`ScatterplotByMinute.png`** - A scatterplot showing an average of frequency of messages sent according to the time of day.
-- **`heatmapByHour.png`** - A heatmap showing an average of frequency of messages sent according to both the hour of the day, and day of the week.
-- **`my_freq_by_date.csv`** - A csv file containing all dates within the given message dataset in one column, and the number of messages sent on that day in another column.
+- [text_message_analysis.ipynb](text_message_analysis.ipynb) - A notebook documenting the code used for the toolkit, along with demonstrations of visualisations
+- [ScatterplotByMinute.png](ScatterplotByMinute.png) - A scatterplot showing an average of frequency of messages sent according to the time of day.
+- [heatmapByHour.png](heatmapByHour.png) - A heatmap showing an average of frequency of messages sent according to both the hour of the day, and day of the week.
+- [my_freq_by_date.csv](my_freq_by_date.csv) - A csv file containing all dates within the given message dataset in one column, and the number of messages sent on that day in another column.
